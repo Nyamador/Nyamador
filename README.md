@@ -3,7 +3,7 @@
 ![](https://github.com/Nyamador/Nyamador/blob/master/1500x500.jpg)
 
 <h1 align="center">Hi 👋, I'm Desmond Nyamador</h1>
-<h3 align="center">A developer based in Accra, Ghana 🇬🇭</h3>
+<h3 align="center">A software engineer based in Accra, Ghana 🇬🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyamador&label=Profile%20views&color=0e75b6&style=flat" alt="nyamador" /> </p>
 

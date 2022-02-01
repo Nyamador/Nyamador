@@ -13,4 +13,4 @@
 
 - 💬 Ask me about **Javascript / Python**
 
-- 📫 How to reach me **selanyamador@gmail.com**
+- 📫 How to reach me **desmond@nyamador.com**

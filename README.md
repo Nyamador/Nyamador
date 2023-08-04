@@ -6,9 +6,11 @@
 I mostly work with:
 
 
-- 📝 I regularly write articles on [Pluralsight.com](Pluralsight.com)
+- 📝 I regularly write articles and publish courses at [Pluralsight.com](Pluralsight.com)
 
 -  I guide early stage software engineers at [AltSchoolAfrica](altschoolafrica.com)
+
+- Learning Rust & Go 
 
 - 💬 Ask me about **Typescript / Python**
 

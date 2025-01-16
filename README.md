@@ -1,20 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Desmond Nyamador</h1>
-<h3 align="center">A software engineer based in Accra, Ghana 🇬🇭</h3>
-
-I mostly work with:
+Hi , I'm Desmond Nyamador
+I'm software engineer based in Ghana 🇬🇭 and UAE 🇦🇪
 
 
-- 📝 I regularly write articles and publish courses at [Pluralsight.com](Pluralsight.com)
+- 📝 I publish courses at [[Pluralsight.com]()](https://app.pluralsight.com/profile/author/desmond-nyamador)
+- 💬 Ask me about **Typescript**
 
--  I guide early stage software engineers at [AltSchoolAfrica](altschoolafrica.com)
-
-- Learning Rust & Go 
-
-- 💬 Ask me about **Typescript / Python**
-
-- 📫 How to reach me **selanyamador@gmail.com**
 
 
 
